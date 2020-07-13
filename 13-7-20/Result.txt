@@ -1,0 +1,3 @@
+Training Accuracy: 0.9792
+Testing Accuracy:  0.9267
+ELMO EMBEDDINGS USED
